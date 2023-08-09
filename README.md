@@ -9,4 +9,3 @@ Welcome to the **Learn Scratch Programming from Scratch** GitHub repository!
 
 In this repository, you will embark on an exciting journey through the world of Scratch programming. The accompanying YouTube playlist, [Learn Scratch Programming](https://www.youtube.com/watch?v=gRSAJnoXYt0&list=PLe9hit7-38Z9JK39pCVZHWhptToSmrhUn&pp=iAQB), is your trusted guide to help you go from a programming novice to a Scratch virtuoso.
 
-## Playlist Overview
