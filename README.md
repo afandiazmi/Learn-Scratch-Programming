@@ -1,8 +1,12 @@
-Learn Scratch Programming from Scratch
-Welcome to the Learn Scratch Programming from Scratch GitHub repository! This repository is dedicated to helping you learn the fundamentals of programming using Scratch, a beginner-friendly visual programming language.
+# Learn Scratch Programming from Scratch
 
-[Scratch Logo
-](https://uploads.scratch.mit.edu/get_image/gallery/3710796_200x130.png)
+![Scratch Logo](https://cdn2.scratch.mit.edu/get_image/gallery/3710796_200x130.png)
 
-About
-In this repository, you will find resources, code examples, and project files to accompany the YouTube playlist titled Learn Scratch Programming. The playlist is designed to take you on a journey from absolute beginner to confident Scratch programmer.
+Welcome to the **Learn Scratch Programming from Scratch** GitHub repository! 
+🚀
+
+## About
+
+In this repository, you will embark on an exciting journey through the world of Scratch programming. The accompanying YouTube playlist, [Learn Scratch Programming](https://www.youtube.com/watch?v=gRSAJnoXYt0&list=PLe9hit7-38Z9JK39pCVZHWhptToSmrhUn&pp=iAQB), is your trusted guide to help you go from a programming novice to a Scratch virtuoso.
+
+## Playlist Overview
